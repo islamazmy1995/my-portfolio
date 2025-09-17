@@ -4,14 +4,14 @@ import ArrowIcon from "../../../components/Icons/ArrowIcon";
 
 export default function AboutMe() {
   const technologies = [
-    ["Node.js", "Typescript", "Express.js", "RESTful APIs"],
+    ["PHP", "Typescript", "Laravel", "RESTful APIs"],
     ["React.js", "Next.js", "Redux", "JavaScript (ES6+)", "Tailwind CSS"],
-    ["MongoDB", "GitLab CI/CD"],
+    ["MySQL", "GitLab CI/CD"],
   ];
 
   const aboutMeParagraphs = [
     "Hello! I'm Islam Azmy, a passionate problem solver and enthusiastic full stack developer. I'm 21 years old with experience in building and maintaining full-featured web applications.",
-    "As a Full Stack Developer, I specialize in building fast and scalable web applications using modern technologies like MongoDB, Express.js, React.js, and Node.js. I have solid experience in developing full-stack solutions, particularly in e-commerce and SaaS platforms, including features like authentication systems, online payments, shopping carts, and admin dashboards.",
+    "As a Full Stack Developer, I specialize in building fast and scalable web applications using modern technologies like MongoDB, Express.js, React.js, and php. I have solid experience in developing full-stack solutions, particularly in e-commerce and SaaS platforms, including features like authentication systems, online payments, shopping carts, and admin dashboards.",
     "I enjoy turning complex ideas into clean and efficient code, and I’m always striving to improve my skills and stay updated with new technologies. I strongly believe in writing maintainable code and following best practices in the world of software development.",
   ];
 

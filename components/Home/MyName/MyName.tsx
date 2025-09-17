@@ -49,7 +49,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-400 font-Header text-sm md:text-base mt-6 tracking-wide max-w-3xl text-justify"
       >
-        I'm a 21-year-old full stack developer with a passion for building modern web applications using React.js, Next.js, Node.js, and MongoDB. I enjoy turning complex problems into clean, efficient code and delivering exceptional user experiences.
+        I'm a 21-year-old full stack developer with a passion for building modern web applications using React.js, Next.js, laravel, and Mysql. I enjoy turning complex problems into clean, efficient code and delivering exceptional user experiences.
       </motion.p>
 
       <motion.div

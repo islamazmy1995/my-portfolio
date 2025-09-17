@@ -8,7 +8,7 @@ export default function GetInTouch() {
       data-aos="fade-up"
       className="flex flex-col items-center py-20 bg-AAprimary"
     >
-      {/* العنوان */}
+      {/*  */}
       <div className="flex flex-row items-center mb-6">
         <ArrowIcon className="h-5 md:h-6 w-5 text-AAsecondary" />
         <div className="flex flex-row space-x-2 items-center">

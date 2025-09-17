@@ -33,25 +33,66 @@ interface ProjectData {
 const projects: ProjectData[] = [
   {
     id: 1,
+    title: "IBSRA COMPANY WEBSITE",
+    subtitle: "Recent Project",
+    description: "company website for IBSRA company",
+    technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+    imageUrl: "/ibsra.png",
+    projectUrl: "https://www.ibsra.com/",
+    isReversed: false
+  },
+  {
+    id: 2,
+    title: "Smart Learning Academy",
+    subtitle: "Recent Project",
+    description:"smart learning academy website",
+    technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+    imageUrl: "/smart.png",
+    projectUrl: "https://studentdashbord.vercel.app/",
+    isReversed: false
+  },
+  {
+    id: 3,
+    title: "ouevra website  E-commerce Platform",
+    subtitle: "Recent Project",
+    description: "oeuvre is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
+    technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+    imageUrl: "/overa.png",
+    projectUrl: "https://oeuvra-ecommerce-d7gv.vercel.app/",
+    isReversed: false
+  },
+  {
+    id: 4,
+    title: "Shoes Store: E-commerce Platform",
+    subtitle: "Recent Project",
+    description: "Shoes Store is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
+    technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+    imageUrl: "/Shoes.png",
+    projectUrl: "https://islam56.web.app/home",
+    isReversed: false
+  },
+
+  {
+    id: 5,
     title: "GuickCart: E-commerce Platform",
     subtitle: "Recent Project",
     description: "GuickCart is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
-    technologies: ["Node js", "React js", "Express js", "MongoDB", "Github"],
+    technologies: ["php", "React js", "laravel", "MySQL", "Github"],
     imageUrl: "/project1.png",
     projectUrl: "https://e-coomerce-tx34-p13oc9xzk-islamazmy1995s-projects.vercel.app/",
     isReversed: false
   },
   {
-    id: 2,
+    id: 6,
     title: "GuickCart",
     description: "Store App is a modern authentication system built using Next.js and styled with Tailwind CSS. It leverages Node.js, Express.js, and React.js to provide a seamless login experience, secure API integration, and a scalable structure for full-stack applications.",
-    technologies: ["Node js", "React js", "Express js"],
+    technologies:["php", "React js", "laravel", "MySQL"],
     imageUrl: "/project2.png",
     projectUrl: "https://store-2-yn9a.vercel.app/",
     isReversed: true
   },
   {
-    id: 3,
+    id: 7,
     title: "GuickCart | E-commerce Platform",
     description: "Shoes Store is a full-stack E-commerce application developed to provide a fast, smooth, and modern shopping experience. Built using Next.js, Tailwind CSS, React.js, Node.js, and Express.js, it includes features like product display, size filtering, cart management, and a seamless checkout flow. The project also uses localStorage and integrates WhatsApp ordering for real-time communication with customers.",
     technologies: ["Cookies", "Google APi", "Data collecting", "IP Address", "Location"],
@@ -60,7 +101,7 @@ const projects: ProjectData[] = [
     isReversed: false
   },
   {
-    id: 4,
+    id: 8,
     title: "Travel UI",
     description: "Putuk Truno Camp Area is a visually captivating travel web application built with Next.js and Tailwind CSS. It provides users with an inspiring interface to explore nature-based destinations. Designed to enhance the travel planning experience, the app allows users to discover beautiful locations and plan their adventures all from one platform. The project showcases a clean layout, smooth animations, and responsive design, making it ideal for modern travelers.",
     technologies: ["Next.js 13"],
