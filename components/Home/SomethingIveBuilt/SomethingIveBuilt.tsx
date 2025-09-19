@@ -50,9 +50,27 @@ const projects: ProjectData[] = [
     imageUrl: "/smart.png",
     projectUrl: "https://studentdashbord.vercel.app/",
     isReversed: false
-  },
+  },{
+  id: 3,
+  title: "celebrity-community.",
+  subtitle: "Recent Project",
+  description:"smart learning academy website",
+  technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+  imageUrl: "/id-2.png",
+  projectUrl: "https://celebrity-community.vercel.app/",
+  isReversed: false
+},{
+id: 4,
+title: "wedigit",
+subtitle: "Recent Project",
+description:"Shop By Category website",
+technologies: ["php", "React js", "laravel", "MySQL", "Github"],
+imageUrl: "/id-3.png",
+projectUrl: "https://wedigit-en.vercel.app/",
+isReversed: false
+},
   {
-    id: 3,
+    id: 5,
     title: "ouevra website  E-commerce Platform",
     subtitle: "Recent Project",
     description: "oeuvre is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
@@ -62,7 +80,7 @@ const projects: ProjectData[] = [
     isReversed: false
   },
   {
-    id: 4,
+    id: 6,
     title: "Shoes Store: E-commerce Platform",
     subtitle: "Recent Project",
     description: "Shoes Store is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
@@ -73,7 +91,7 @@ const projects: ProjectData[] = [
   },
 
   {
-    id: 5,
+    id: 7,
     title: "GuickCart: E-commerce Platform",
     subtitle: "Recent Project",
     description: "GuickCart is an ecommerce platform dedicated to providing high-quality products to customers seeking solutions",
@@ -83,7 +101,7 @@ const projects: ProjectData[] = [
     isReversed: false
   },
   {
-    id: 6,
+    id: 8,
     title: "GuickCart",
     description: "Store App is a modern authentication system built using Next.js and styled with Tailwind CSS. It leverages Node.js, Express.js, and React.js to provide a seamless login experience, secure API integration, and a scalable structure for full-stack applications.",
     technologies:["php", "React js", "laravel", "MySQL"],
@@ -92,7 +110,7 @@ const projects: ProjectData[] = [
     isReversed: true
   },
   {
-    id: 7,
+    id: 9,
     title: "GuickCart | E-commerce Platform",
     description: "Shoes Store is a full-stack E-commerce application developed to provide a fast, smooth, and modern shopping experience. Built using Next.js, Tailwind CSS, React.js, Node.js, and Express.js, it includes features like product display, size filtering, cart management, and a seamless checkout flow. The project also uses localStorage and integrates WhatsApp ordering for real-time communication with customers.",
     technologies: ["Cookies", "Google APi", "Data collecting", "IP Address", "Location"],
@@ -101,7 +119,7 @@ const projects: ProjectData[] = [
     isReversed: false
   },
   {
-    id: 8,
+    id: 10,
     title: "Travel UI",
     description: "Putuk Truno Camp Area is a visually captivating travel web application built with Next.js and Tailwind CSS. It provides users with an inspiring interface to explore nature-based destinations. Designed to enhance the travel planning experience, the app allows users to discover beautiful locations and plan their adventures all from one platform. The project showcases a clean layout, smooth animations, and responsive design, making it ideal for modern travelers.",
     technologies: ["Next.js 13"],
